@@ -1,0 +1,54 @@
+body, h1{
+    font-family: "Cairo", sans-serif !important;
+    text-align: right;
+}
+
+.profile, .menu_section{
+    text-align: right;
+}
+
+.profile_info > span{
+    font-size: 15px;
+}
+
+.profile_info > h2{
+    font-size: 17px;
+}
+
+.menu_section{
+    padding-right: 8px;
+}
+
+.menu_section > h3{
+    letter-spacing: normal;
+    font-size:120%;
+}
+
+.menu_section > ul{
+    padding-right: 0px;
+}
+
+.menu_section > ul > .active{
+    border-right: none !important;
+    border-left: 5px solid #1ABB9C
+}
+
+.x_title > h2 {
+    overflow:visible;
+    float: right;
+}
+
+.main_container .top_nav {
+    display: block;
+    margin-right: 230px;
+    margin-left: 0px;
+  }
+
+  .nav-md .container.body .right_col {
+    margin-right: 230px !important;
+    margin-left: 0px;
+  }
+
+  .panel_toolbox {
+    float: left;
+  }
